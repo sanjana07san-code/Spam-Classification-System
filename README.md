@@ -135,15 +135,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-.
-* Home Page
-* Prediction Result
-* History Page
-* About Page
-
----
-
 ## 🔮 Future Enhancements
 
 * User Authentication
